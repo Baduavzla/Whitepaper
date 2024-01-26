@@ -1,0 +1,2 @@
+# Whitepaper
+AB testing exercise 
